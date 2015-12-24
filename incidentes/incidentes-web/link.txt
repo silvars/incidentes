@@ -1,0 +1,2 @@
+http://www.javacodegeeks.com/2013/04/spring-mvc-hibernate-maven-crud-operations-example.html
+http://websystique.com/springmvc/spring-mvc-4-angularjs-example/
